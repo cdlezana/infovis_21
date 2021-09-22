@@ -9,5 +9,5 @@
     ###### Fuente:dataworld. - Autor: Ariel Aizemberg.
     
 **Visualización que opinan los Estadounidenses del aborto**  
-    ##### Encuesta de opinión sobre el aborto en Estados Unidos 1975 - 2021.  [VER](https://cdlezana.github.io/infovis_21/mom_w36_2021cl.html)  
+    ##### Encuesta de opinión sobre el aborto en Estados Unidos 1975 - 2021.  [VER](https://cdlezana.github.io/infovis_21/mom_w36_2021_cl.html)  
     ###### Fuente:dataworld. - Autor: Claudio Lezana.    
