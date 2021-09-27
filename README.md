@@ -19,7 +19,7 @@
 
 - **Archivo CSV de Índice de precios de la Dark Web 2021**  
     Índice de precios de la Dark Web - 2021.  [VER](https://cdlezana.github.io/infovis_21/mom_w38_2021.csv)  
-    Fuente:dataworld. MOM_W37_2021, Primera Parte Tableau_Public - Segunda Parte Obserbablehq
+    Fuente:dataworld. MOM_W38_2021, Primera Parte  - Segunda Parte Obserbablehq
     Autor: Claudio Lezana.
 
 
