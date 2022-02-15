@@ -4,7 +4,7 @@
 ## Prácticas del Módulo de Visualización de la Información ECD_ITBA
 
 
- **Visualización trabajo final 2021**  
+- **Visualización trabajo final 2021**  
     Analisis visual de las elecciones PASO 2021.  [VER](https://cdlezana.github.io/infovis_21/trabajo_final_2021.html)  
     Fuente:Flourish, R. - Autor: Solis, Juan I.; Alvarez, Fernando;San Jose Alejandro; Lezana, Claudio.
 
